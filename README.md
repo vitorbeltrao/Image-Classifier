@@ -47,6 +47,13 @@ In this project, we went through several necessary steps of a data science proje
 * We optimize the neural network hyperparameters and save the best parameters.
 * Finally we evaluate the best model in the test set.
 
+***
+
+**Conclusion:**
+
+For computer vision problems, using CNNs are more suitable and will certainly achieve better performances than ours here. Our model did not perform as well, but for a first iteration it was reasonable! We can leave as next steps, address this problem with CNNs and compare the respective performances of the two architectures. We can also, in addition to testing our own CNN, test various architectures of pre-trained models with transfer learning.
+
+We ended up suffering a bit from the overfitting problem, where our model performs better on the training dataset than on the validation dataset, but that's to be expected as this is a complex problem. In the end, we ended up reaching an accuracy of 82% in the test set, which as we said, is not bad for a first iteration.
 
 ## File Descriptions <a name="files"></a>
 
