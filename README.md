@@ -63,7 +63,7 @@ We have the following files here:
 * A notebook where the entire analysis of the respective problem was developed.
 * A txt file where are all the libraries and their versions needed for the web application to work (requirements.txt).
 * A txt file about the license to use the entire project developed (license.txt).
-* A folder with the images of the data used to create the deep learning model.
+* For reasons of storage capacity, we will not make the data available here, but you can download it directly from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## Results<a name="results"></a>
 
