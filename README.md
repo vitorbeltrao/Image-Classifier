@@ -24,11 +24,21 @@ Taking this, there should be no necessary libraries to run the code here beyond 
 
 ## Project Motivation<a name="motivation"></a>
 
+This is one of the central problems of computer vision which, despite its simplicity, has a variety of practical applications. Image classification is the task of assigning an input image a label from a finite set of categories.
 
+This classifier model that we are going to create will be very useful and important for doctors and radiologists, since it can help them in this task of diagnosing a patient with pneumonia or not, helping them to make much faster and more assertive decisions.
+
+Technically speaking, we will approach the problem with supervised learning. We will use neural networks for the classification task. At the performance level of the algorithm, we will use the confusion matrix, accuracy, precision and recall.
 
 ## File Descriptions <a name="files"></a>
 
+We have the following files here:
 
+* One Python file (app.py) which makes the entire structure of the web application. In addition, this code takes the file with the saved neural network parameters and makes the inferences.
+* A notebook where the entire analysis of the respective problem was developed.
+* A txt file where are all the libraries and their versions needed for the web application to work (requirements.txt).
+* A txt file about the license to use the entire project developed (license.txt).
+* A folder with the images of the data used to create the deep learning model.
 
 ## Results<a name="results"></a>
 
