@@ -46,6 +46,6 @@ The final web application for this job is available at the following link:
 
 ## Licensing and Authors <a name="licensingandauthors"></a>
 
-Licensing: [MIT license](https://github.com/vitorbeltrao/NLP-Disaster-Response/blob/master/license.txt)
+Licensing: [MIT license](https://github.com/vitorbeltrao/Image-Classifier/blob/main/license.txt)
 
 Authors: [Vitor Beltrão](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/)
