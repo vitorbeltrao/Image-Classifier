@@ -67,7 +67,7 @@ We have the following files here:
 
 ## Results<a name="results"></a>
 
-The final web application for this job is available at the following link:
+The final web application for this job is available at the following link: https://vitorbeltrao-image-classifier-app-h51xdz.streamlitapp.com/
 
 ## Licensing and Authors <a name="licensingandauthors"></a>
 
