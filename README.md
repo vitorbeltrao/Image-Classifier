@@ -1,6 +1,6 @@
 # Computer Vision - Image Classifier
 
-![Image Classifier App](https://github.com/vitorbeltrao/Pictures/blob/main/image_classifier_app.png?raw=true)
+![Image Classifier App](https://github.com/vitorbeltrao/Pictures/blob/main/image_classifier.png?raw=true)
 
 ## Table of Contents
 
