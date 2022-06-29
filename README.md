@@ -11,7 +11,16 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+To run this notebook, you must install the [opencv](https://opencv.org/) and [tensorflow](https://www.tensorflow.org/)
+
+```
+!pip install opencv-python
+```
+```
+!pip install tensorflow
+```
+
+Taking this, there should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
